@@ -14,6 +14,7 @@
 | Security Operations | - Data security <br> - System hardening <br> - Best practice security policies <br> - Security training awareness | 18 |
 
 ## CC CAT Examination
+*Due date: 12 January 2027*
 
 - **No. of items**: 100 - 125
 - **Duration**: 2 hours
